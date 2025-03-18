@@ -12,18 +12,9 @@ Ta repozitorij vsebuje vizualizacijo **minimalnih, povrepnih in maksimalnih vred
     <img src="Slovenija.gif" width="100%">
 </div>
 
-<input type="range" min="1" max="10" value="1" id="slider" oninput="updateImage()">
-
-<script>
-    function updateImage() {
-        var frame = document.getElementById("slider").value;
-        document.getElementById("image").src = "frame" + frame + ".png";
-    }
-</script>
-
 ---
 
 ## 🔗 Povezave
 🌍 [NASA Earthdata - Nighttime Lights](https://www.earthdata.nasa.gov/topics/human-dimensions/nighttime-lights)  
 🌍 [NASA Worldview](https://worldview.earthdata.nasa.gov/?)
-🌍 [Temno Nebo Slovenija](http://www.temnonebo.si/)
+🌍 [Temno Nebo Slovenija](http://www.temnonebo.si/)  
