@@ -9,7 +9,7 @@ Ta repozitorij vsebuje vizualizacijo **minimalnih, povrepnih in maksimalnih vred
 ### <h2 align="center"><b>Slovenija in okolica 2022</b></h2>
 
 <div style="border: 3px solid black; padding: 10px; display: inline-block;">
-    <img src="KDE.gif" width="100%">
+    <img src="Slovenija.gif" width="100%">
 </div>
 
 ---
