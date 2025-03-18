@@ -8,14 +8,18 @@ Ta repozitorij vsebuje vizualizacijo **minimalnih, povrepnih in maksimalnih vred
 
 ### <h2 align="center"><b>Slovenija in okolica 2022</b></h2>
 
-<h2 align="center">Animacija svetlobnega onesnaženja v Sloveniji (2022)</h2>
-<p align="center">
-   Ta animacija prikazuje minimalne vrednosti radiance v Sloveniji in njeni okolici na podlagi podatkov NOAA VIIRS.
-</p>
-
 <div style="border: 3px solid black; padding: 10px; display: inline-block;">
     <img src="Slovenija.gif" width="100%">
 </div>
+
+<input type="range" min="1" max="10" value="1" id="slider" oninput="updateImage()">
+
+<script>
+    function updateImage() {
+        var frame = document.getElementById("slider").value;
+        document.getElementById("image").src = "frame" + frame + ".png";
+    }
+</script>
 
 ---
 
