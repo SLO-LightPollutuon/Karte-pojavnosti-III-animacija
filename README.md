@@ -1,10 +1,6 @@
-# 🌍 Statistične vrednosti radianc v Sloveniji in okolici (2022)
+# 🌍 Karte pojavnosti (III)
 
-Ta repozitorij vsebuje vizualizacijo **minimalnih, povrepnih in maksimalnih vrednosti radiance** v Sloveniji in okolici za leto **2022**. 
-
-## 📌 Animacija svetlobne onesnaženosti
-
----
+Ta repozitorij vsebuje animacijo **minimalnih, povrečnih in maksimalnih vrednosti radiance [nW/cm^2/sr] NTL** na območju Slovenije in bližnje okolice v letu 2022.
 
 ### <h2 align="center"><b>Slovenija in okolica 2022</b></h2>
 
